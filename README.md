@@ -192,7 +192,7 @@ $7 bilhões (segmento de seguros odontológicos).
 
 ## Protótipo das Telas
 
-(Desenvolver protótipos das telas a partir dos fluxos de navegação definidos.)
+(Desenvolver protótipos das telas a partir dos fluxos de navegação definidos.) <br>
 ![Protótipos - 1](https://github.com/lissCez/CHALLENGE_AI/blob/main/imagens/unnamed.png)
 ![Protótipos - 2](https://github.com/lissCez/CHALLENGE_AI/blob/main/imagens/unnamed%20(1).png)
 ![Protótipos - 3](https://github.com/lissCez/CHALLENGE_AI/blob/main/imagens/unnamed%20(2).png)
